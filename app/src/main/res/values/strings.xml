@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NipMan</string>
+    <string name="button_dictionary">Dictionary</string>
+    <string name="button_games">Games</string>
+    <string name="label_japan_word">คำศัพท์</string>
+    <string name="label_eng_word">คำทับศัพท์</string>
+    <string name="label_meaning_word">ความหมาย</string>
+    <string name="label_exsample_word">ตัวอย่างการใช้งาน</string>
+</resources>
